@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 <!--
 MIT License
 
@@ -37,10 +27,12 @@ Source repository: <https://github.com/azer-2025/azer-2025>
 -->
 
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20azer-2025&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="怀民亦未寝💕" title="怀民亦未寝💕"/>
+  <img width="140" src="https://github.com/user-attachments/assets/9d6d8fd3-d0fd-4449-99c3-aefb421070a7" />      
 </p>
 
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=STHupo&weight=800&size=40&pause=1000&color=F787AF&background=FF5A4700&center=true&vCenter=true&width=435&height=53&lines=%E6%80%80%E6%B0%91%E4%BA%A6%E6%9C%AA%E5%AF%9D%F0%9F%92%95;I+am+Azer" alt="Typing SVG" /></a>
+</p>
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/azer-2025/azer-2025/blob/output/github-snake-dark.svg" />
@@ -62,7 +54,7 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     
 </p>
 
-![](./profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -81,10 +73,11 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     <a href="https://space.bilibili.com/1764589563?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-Azer-FB7299?logo=bilibili&logoColor=white" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://github.com/azer-2025"><img src="https://komarev.com/ghpvc/?username=azer-2025&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
+
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=STHupo&weight=800&size=40&pause=1000&color=F787AF&background=FF5A4700&center=true&vCenter=true&width=435&height=53&lines=Bye+%EF%BC%81%EF%BC%81%EF%BC%81;%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
+
 <p align="center">
     <img src="https://count.getloli.com/@azer?name=azer&theme=rule34&padding=10&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1798796749" alt="My Count" width="40%">   
 </p>
