@@ -61,10 +61,15 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     <img width="400" src="https://streak-stats.demolab.com?user=azer-2025&theme=blood&locale=zh_Hans&card_height=250" alt="GitHub Streak" />
     
 </p>
+
+![](./profile-3d-contrib/profile-green.svg)
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=azer-2025&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+
+
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,gemini,cs,vue,chatgpt,js,ts,css,html,md,spring,django,react&titles=true" alt="Skill Icons" title="Skill Icons">
