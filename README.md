@@ -80,3 +80,6 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
+<p align="center">
+    <img src="https://count.getloli.com/@azer?name=azer&theme=rule34&padding=10&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="My Count" width="40%">   
+</p>
