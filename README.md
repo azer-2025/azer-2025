@@ -47,12 +47,11 @@ Source repository: <https://github.com/azer-2025/azer-2025>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=azer-2025&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-azer-2025.vercel.app?user=azer-2025&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
-    <img align="" height="180px" src="https://github-readme-stats-api-mauve.vercel.app/api?username=azer-2025&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="180px" src="https://github-readme-stats-api-mauve.vercel.app/api/top-langs/?username=azer-2025&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
+    <img width="400" src="https://streak-stats.demolab.com?user=azer-2025&theme=blood&locale=zh_Hans&card_height=250" alt="GitHub Streak" />
+    
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -71,7 +70,7 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/azer-2025"><img src="https://img.shields.io/badge/azer-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/azzzer"><img src="https://img.shields.io/badge/Gitee-blue" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/1764589563?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/1764589563?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-Azer-FB7299?logo=bilibili&logoColor=white" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://github.com/azer-2025"><img src="https://komarev.com/ghpvc/?username=azer-2025&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
