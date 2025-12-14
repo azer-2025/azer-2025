@@ -53,14 +53,14 @@ Source repository: <https://github.com/azer-2025/azer-2025>
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true" />
 </picture>
     <img width="400" src="https://streak-stats.demolab.com?user=azer-2025&theme=blood&locale=zh_Hans&card_height=250" alt="GitHub Streak" />
     
