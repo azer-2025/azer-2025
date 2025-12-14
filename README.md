@@ -50,20 +50,13 @@ Source repository: <https://github.com/azer-2025/azer-2025>
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- self-host in Vercel -->
-
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=azer-2025&show_icons=true" />
-</picture>
-    <img width="400" src="https://streak-stats.demolab.com?user=azer-2025&theme=blood&locale=zh_Hans&card_height=250" alt="GitHub Streak" />
-    
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=azer-2025&theme=blood&locale=zh_Hans&card_height=250" alt="GitHub Streak" /> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=azer-2025" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azer-2025&layout=compact&langs_count=8&card_width=320" />
+    </a>
 </p>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
