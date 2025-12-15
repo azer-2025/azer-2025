@@ -30,9 +30,11 @@ Source repository: <https://github.com/azer-2025/azer-2025>
   <img width="140" src="https://github.com/user-attachments/assets/9d6d8fd3-d0fd-4449-99c3-aefb421070a7" />      
 </p>
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=STHupo&weight=800&size=40&pause=1000&color=F787AF&background=FF5A4700&center=true&vCenter=true&width=435&height=53&lines=%E6%80%80%E6%B0%91%E4%BA%A6%E6%9C%AA%E5%AF%9D%F0%9F%92%95;I+am+Azer" alt="Typing SVG" /></a>
-</p>
+## <p align="center"> I am Azer <img src="assets/images/Partying Face.png" width="25"></p> 
+## <p align="center"> 怀明亦未寝 <img src="assets/images/Heart on Fire.png" width="30"></p> 
+                    
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=STHupo&weight=800&size=40&pause=1000&color=F787AF&background=FF5A4700&center=true&vCenter=true&width=435&height=53&lines=%E6%80%80%E6%B0%91%E4%BA%A6%E6%9C%AA%E5%AF%9D%F0%9F%92%95;I+am+Azer" alt="Typing SVG" /></a> -->
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/azer-2025/azer-2025/blob/output/github-snake-dark.svg" />
